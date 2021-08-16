@@ -1,4 +1,4 @@
-## Designed and implemented a user-space shell utility capable of processing a FAT32 file system image using RMI capability
+# Designed and implemented a user-space shell utility capable of processing a FAT32 file system image using RMI capability
 
 Files Included:
 The various interfaces that all extend Remote and are individual commands that the client can call
@@ -51,7 +51,7 @@ If the client cannot find a server with the given inputs it will throw an error 
 Terminate the Client: STOP
 Terminate the Server: Control C
 
-# Challenges:
+## Challenges:
 1. It was a challenge to coordinate all the different versions of the code that were flying around from
 all the various steps and stages in the project
 2. To connect two of our computers together, which we ultimately figured out, took some troubleshooting
