@@ -2,14 +2,23 @@
 
 Files Included:
 The various interfaces that all extend Remote and are individual commands that the client can call
+
 CdInterface - The cd command interface. Returns a string which either highlights the information requested or with an error message
+
 CloseInterface - The close command interface. Returns a string which either highlights the information requested or with an error message
+
 InfoInterface - The info command interface. Returns a string which either highlights the information requested or with an error message
+
 LsInterface - The ls command interface. Returns a string which either highlights the information requested or with an error message
+
 OpenInterface - The open command interface. Returns a string which either highlights the information requested or returns an error message
+
 ReadInterface - The read command interface. Returns a string which either highlights the information requested or returns an error message
+
 SizeInterface - The size command interface. Returns a string which either highlights the information requested or returns an error message
+
 StatInterface - The stat command interface. Returns a string which either highlights the information requested or returns an error message
+
 
 Impl - implementation for all the interfaces above
 
