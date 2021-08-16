@@ -47,7 +47,8 @@ If the client cannot find a server with the given inputs it will throw an error 
 
 
 ## Commands:
-ls, stat, info, open, close, size, cd, and read
+Execution: ls, stat, info, open, close, size, cd, and read
+
 Terminate the Client: STOP
 Terminate the Server: Control C
 
