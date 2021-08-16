@@ -1,4 +1,4 @@
-#Designed and implemented a user-space shell utility capable of processing a FAT32 file system image using RMI capability
+## Designed and implemented a user-space shell utility capable of processing a FAT32 file system image using RMI capability
 
 Files Included:
 The various interfaces that all extend Remote and are individual commands that the client can call
