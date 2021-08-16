@@ -46,8 +46,8 @@ If the client cannot find a server with the given inputs it will throw an error 
 	In our testing when connecting two computers, the computer running the server would need to follow steps 1-4 to run correctly. The client on the other computer also needs to do java *.java, to compile all the files and then rmic Impl as well. Step 5 specified above is if the files are already compiled and the rmic is already made previously locally. When testing across two computers, then the extra step of compiling and rmic Impl need to be done as well. 
 
 
-## Commands: All commands from the previous assignments are available. 
-
+## Commands:
+ls, stat, info, open, close, size, cd, and read
 Terminate the Client: STOP
 Terminate the Server: Control C
 
